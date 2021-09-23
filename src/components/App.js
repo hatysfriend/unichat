@@ -10,7 +10,7 @@ import Login from "./Login"
 function App() {
   return (
     <div style={{ fontFamily: 'Avenir' }}>
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <AuthProvider>
           <Switch>
             <Route path="/chats" component={Chats} />
