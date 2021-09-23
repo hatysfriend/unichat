@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/unichat/static/css/main.37448acd.chunk.css",
-    "main.js": "/unichat/static/js/main.11eaed5d.chunk.js",
-    "main.js.map": "/unichat/static/js/main.11eaed5d.chunk.js.map",
+    "main.js": "/unichat/static/js/main.7927a47e.chunk.js",
+    "main.js.map": "/unichat/static/js/main.7927a47e.chunk.js.map",
     "runtime-main.js": "/unichat/static/js/runtime-main.014caeaa.js",
     "runtime-main.js.map": "/unichat/static/js/runtime-main.014caeaa.js.map",
     "static/css/2.ad76a385.chunk.css": "/unichat/static/css/2.ad76a385.chunk.css",
     "static/js/2.033111ed.chunk.js": "/unichat/static/js/2.033111ed.chunk.js",
     "static/js/2.033111ed.chunk.js.map": "/unichat/static/js/2.033111ed.chunk.js.map",
     "index.html": "/unichat/index.html",
-    "precache-manifest.f255b66620b2e6f2115118119498c4de.js": "/unichat/precache-manifest.f255b66620b2e6f2115118119498c4de.js",
+    "precache-manifest.211c194b6126c4a87de2449b6a1d07a0.js": "/unichat/precache-manifest.211c194b6126c4a87de2449b6a1d07a0.js",
     "service-worker.js": "/unichat/service-worker.js",
     "static/css/2.ad76a385.chunk.css.map": "/unichat/static/css/2.ad76a385.chunk.css.map",
     "static/css/main.37448acd.chunk.css.map": "/unichat/static/css/main.37448acd.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.ad76a385.chunk.css",
     "static/js/2.033111ed.chunk.js",
     "static/css/main.37448acd.chunk.css",
-    "static/js/main.11eaed5d.chunk.js"
+    "static/js/main.7927a47e.chunk.js"
   ]
 }

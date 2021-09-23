@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "89c13c1f528511f386bc6dd1c64670bb",
+    "revision": "ab3eb73126a22b3627303468c3e39f2e",
     "url": "/unichat/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/unichat/static/css/2.ad76a385.chunk.css"
   },
   {
-    "revision": "f9b87244a6bf562f00ad",
+    "revision": "c431f7eb54480f10bb96",
     "url": "/unichat/static/css/main.37448acd.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/unichat/static/js/2.033111ed.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f9b87244a6bf562f00ad",
-    "url": "/unichat/static/js/main.11eaed5d.chunk.js"
+    "revision": "c431f7eb54480f10bb96",
+    "url": "/unichat/static/js/main.7927a47e.chunk.js"
   },
   {
     "revision": "d81067fa5f1d98a40195",
